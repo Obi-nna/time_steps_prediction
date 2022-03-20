@@ -5,7 +5,7 @@ The dataset contains 11 attributes: bird ID, bird year, destination, date, time,
 
 Data Visualisation
 
-This analysis was carried out using the Python programming language, and the diagrams below represent an exploratory view of the data. The two coordinate columns, longitude and latitude, will be our primary focus for predictions.
+This analysis was carried out using the Python programming language, and the diagrams below represent an exploratory view of the data. The two coordinates, longitude and latitude, will be our primary focus for predictions.
 ![image](https://user-images.githubusercontent.com/99766998/159179469-77603b98-efb1-4f7b-9e9b-4037961e2222.png)
 
 The exploratory went to show 19 unique bird IDs and 4 unique destinations below.
