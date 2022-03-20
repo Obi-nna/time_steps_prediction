@@ -7,6 +7,7 @@ Data Visualisation
 
 The Python programming language was used for this analysis, and the diagrams below are an exploratory view of the data. Our primary focus will be on the longitude and latitude columns for predictions.
 ![image](https://user-images.githubusercontent.com/99766998/159179469-77603b98-efb1-4f7b-9e9b-4037961e2222.png)
-The exploratory went to show 4 unique destinations, 19 unique Bird IDs as shown below.
+
+The exploratory went to show 4 unique destinations and 19 unique Bird IDs below.
 ![image](https://user-images.githubusercontent.com/99766998/159179517-52135b57-4e95-494e-a5d7-7636b56ed0ef.png)
 ![image](https://user-images.githubusercontent.com/99766998/159184038-69b0ec3b-4d87-4f7b-ae50-e80e569ebb81.png)
